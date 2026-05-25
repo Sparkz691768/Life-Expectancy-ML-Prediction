@@ -51,12 +51,6 @@ Using publicly available World Bank data, this project builds a complete ML pipe
 
 ---
 
-## Screenshots
-
-> *Run the notebook to generate all visualisations — correlation heatmap, actual vs predicted bar charts, and feature importance plot.*
-
----
-
 ## Project Structure
 
 ```
